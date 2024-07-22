@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pydantic
+sqlalchemy
+pydantic-settings
+FastAPI-SQLAlchemy
+databases
+python-multipart
+pytest
+httpx
+fastapi[all]
+pytest-mock

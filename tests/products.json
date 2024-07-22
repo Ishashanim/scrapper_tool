@@ -1,0 +1,12 @@
+[
+    {
+        "product_title": "Sample Product 1",
+        "product_price": 100.0,
+        "path_to_image": "images/sample1.jpg"
+    },
+    {
+        "product_title": "Sample Product 2",
+        "product_price": 200.0,
+        "path_to_image": "images/sample2.jpg"
+    }
+]
